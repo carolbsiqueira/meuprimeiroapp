@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lets Cook</string>
+    <string name="texto_principal">Aprenda a cozinhar com Carolina Siqueira!"</string>
+    <string name="texto_secundario">Outro Texto</string>
+    <string name="pra_vc_pai">Pra voce, pai =)</string>
+    <string name="pamonha_e_muito_bom">%s pamonha é muito bom</string>
+</resources>
